@@ -192,4 +192,5 @@ int main()
 	std::cout << "\n3:\n\n";
 	cout << Whether(head, 14) << "\n";
 
+	return 0;
 }
